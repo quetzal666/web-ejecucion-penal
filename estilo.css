@@ -1,0 +1,27 @@
+.backcolor{
+    margin: 0%;
+    padding: 0%;
+    background-color: #e8c39e; 
+    background-size:cover;
+    background-position:cover;
+   
+
+}
+
+.maintitle{
+
+    font-size: 30px ;
+    margin: 30px 0 0 0;
+    color: black;
+    text-align: center;
+    
+
+}
+
+.subt{
+
+    font-size: 10px ;
+    margin: 30px 0 0 0;
+    color: black;
+    text-align: center;
+}
